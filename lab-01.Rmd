@@ -24,7 +24,7 @@ visitors <- read_csv("data/UK-visitor-numbers.csv")
 
 ## Question 1
 
-_How many tourist attractions are there in the data set?_
+_How many tourist attractions are there in the data set?_ 349
 
 ```{r Q1}
 visitors %>% count()
